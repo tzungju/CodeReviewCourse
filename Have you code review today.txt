@@ -15,4 +15,4 @@ in software development, improving the overall quality of software.
 
 (os: 以前沒code review也還好啊! 難道做code review一定有用?)
 
-
+Richard01
