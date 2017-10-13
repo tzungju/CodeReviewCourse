@@ -2,17 +2,18 @@ Code review is systematic examination (sometimes referred to as peer review)
 of computer source code. It is intended to find mistakes overlooked 
 in software development, improving the overall quality of software.
 
-§Úª¾¹Dcode review¦ü¥G¦³¦n³B¡A
-¦ıcode review»İ­n®É¶¡©M¦¨¥»¡A
-¦Ó¥¦ªº¦n³B¤£¨£±o¥ß§Y¥i¥H¬İ¨ì¡A
-ªø©x(¦ÑÁó)¤S­n§Ú­Ì°µcode review¡A
-¦]¬°Ä±±ocode review¦³§U©ó´£¤Écode quality¡A
-¥i¬O¤½¥qªº¤å¤Æ¦ü¥G¤£¤Ó¾A¦Xcode reviewªº±À°Ê¡A
-¤j®a¦£µÛ¤u§@¡A¤]¨S¤Ó¦hªº®É¶¡review§O¤Hªºcode¡A
-¤]¤£¦n·N«ä»¡§O¤Hªºcode­ş¸Ì¦³°İÃD¡A
-­n«ç¼Ë¤~¯àÅı¤j®a¥D°Ê·Q°µcode review¡A
-¦Ó¥B¥i¥H¯u¥¿·P¨ü¨ìcode review¦³±a¨Ó¹ê»Úªº¦n³B¡C
+æˆ‘çŸ¥é“code reviewä¼¼ä¹æœ‰å¥½è™•ï¼Œ
+ä½†code reviewéœ€è¦æ™‚é–“å’Œæˆæœ¬ï¼Œ
+è€Œå®ƒçš„å¥½è™•ä¸è¦‹å¾—ç«‹å³å¯ä»¥çœ‹åˆ°ï¼Œ
+é•·å®˜(è€é—†)åˆè¦æˆ‘å€‘åšcode reviewï¼Œ
+å› ç‚ºè¦ºå¾—code reviewæœ‰åŠ©æ–¼æå‡code qualityï¼Œ
+å¯æ˜¯å…¬å¸çš„æ–‡åŒ–ä¼¼ä¹ä¸å¤ªé©åˆcode reviewçš„æ¨å‹•ï¼Œ
+å¤§å®¶å¿™è‘—å·¥ä½œï¼Œä¹Ÿæ²’å¤ªå¤šçš„æ™‚é–“reviewåˆ¥äººçš„codeï¼Œ
+ä¹Ÿä¸å¥½æ„æ€èªªåˆ¥äººçš„codeå“ªè£¡æœ‰å•é¡Œï¼Œ
+è¦æ€æ¨£æ‰èƒ½è®“å¤§å®¶ä¸»å‹•æƒ³åšcode reviewï¼Œ
+è€Œä¸”å¯ä»¥çœŸæ­£æ„Ÿå—åˆ°code reviewæœ‰å¸¶ä¾†å¯¦éš›çš„å¥½è™•ã€‚
 
-(os: ¥H«e¨Scode review¤]ÁÙ¦n°Ú! Ãø¹D°µcode review¤@©w¦³¥Î?)
+(os: ä»¥å‰æ²’code reviewä¹Ÿé‚„å¥½å•Š! é›£é“åšcode reviewä¸€å®šæœ‰ç”¨?)
 
+Modified
 
