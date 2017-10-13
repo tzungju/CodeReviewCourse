@@ -1,0 +1,18 @@
+Code review is systematic examination (sometimes referred to as peer review) 
+of computer source code. It is intended to find mistakes overlooked 
+in software development, improving the overall quality of software.
+
+我知道code review似乎有好處，
+但code review需要時間和成本，
+而它的好處不見得立即可以看到，
+長官(老闆)又要我們做code review，
+因為覺得code review有助於提升code quality，
+可是公司的文化似乎不太適合code review的推動，
+大家忙著工作，也沒太多的時間review別人的code，
+也不好意思說別人的code哪裡有問題，
+要怎樣才能讓大家主動想做code review，
+而且可以真正感受到code review有帶來實際的好處。
+
+(os: 以前沒code review也還好啊! 難道做code review一定有用?)
+
+
